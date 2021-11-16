@@ -24,3 +24,31 @@
 .about-description {
     color: var(--branding-color-grey);
 }
+
+.home_topic_block {
+    text-decoration: none;
+    display: block;
+    padding: 20px 20px;
+    margin: 15px 15px;
+    border-radius: 10px;
+    border-color: var(--branding-color-grey);
+    box-shadow: 0 4px 10px;
+    background-color: #fff;
+    transition: color 0.3s, transform 0.3s;
+    color: var(--branding-color-grey);
+}
+
+.home_topic_block:hover {
+    text-decoration: none;
+    color: rgb(102, 102, 102);
+
+}
+
+.Icon {
+    font-size: 35px;
+}
+
+.home_topic_block_heading {
+    font-size: 25px;
+}
+
