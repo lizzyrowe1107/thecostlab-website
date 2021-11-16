@@ -1,6 +1,20 @@
+:root {
+    --branding-color-orange: #FF834F;
+    --branding-color-blue: #4081fa;
+    --branding-color-grey: #4d4d4d;
+    --heading-font-family: 'Poppins', sans-serif;
+
+}
+
+
 .logo {
     max-width: 200px;
 }
 
+.normal {
+    font-weight: normal;
+}
 
-
+.subscribe-button {
+    background-color: var(--branding-color-blue);
+}
