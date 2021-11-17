@@ -21,6 +21,11 @@
 
 }
 
+.index-container h3 {
+    font-size: 26px;
+}
+
+
 .about-description {
     color: var(--branding-color-grey);
 }
@@ -51,4 +56,31 @@
 .home_topic_block_heading {
     font-size: 25px;
 }
+
+.center {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+.course-list-item {
+    border-radius: 10px;
+    padding: 0;
+    background: white;
+}
+
+.course-list-section-inner {
+    padding: 30px
+}
+
+.course-section h2 {
+    font-size: 40px;
+}
+
+.course-section p {
+    font-size: 22px;
+    color: var(--branding-color-grey);
+}
+
+
 
