@@ -7,6 +7,8 @@
 }
 
 
+
+
 .logo {
     max-width: 200px;
 }
@@ -81,6 +83,14 @@
 .course-section p {
     font-size: 22px;
     color: var(--branding-color-grey);
+    
+}
+
+.course-section {
+    background-color: #edf4ff;
+    border-radius: 10px;
+    margin: 0;
+    padding: 10px 310px 100px 310px;
 }
 
 
