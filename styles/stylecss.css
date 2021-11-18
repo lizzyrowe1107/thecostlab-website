@@ -86,7 +86,23 @@
     
 }
 
+.social-links a {
+    margin: 0 20px;
+    color: black;
+    background:#d1d1d1;
+    padding: 10px 15px;
+    font-size: 20px;
+    border-radius: 50%;
+    transition: 100ms ease-in-out;
 
+}
+
+
+
+.social-links a:hover {
+    color:#d1d1d1;
+    background: black;
+}
 
 
 
