@@ -39,7 +39,7 @@
     margin: 15px 15px;
     border-radius: 10px;
     border-color: var(--branding-color-grey);
-    box-shadow: 0 4px 10px;
+    box-shadow: 0 3px 10px;
     background-color: #fff;
     transition: color 0.3s, transform 0.3s;
     color: var(--branding-color-grey);
