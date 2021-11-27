@@ -24,7 +24,7 @@
 }
 
 .index-container h3 {
-    font-size: 26px;
+    font-size: 22px;
 }
 
 
@@ -106,6 +106,10 @@
 
 .piping-section h2 {
     color: black;
+}
+
+.certificate {
+    max-width: 700px;
 }
 
 
